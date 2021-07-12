@@ -8,4 +8,4 @@ https://discord.gg/8z7bPWcc
 nicholaswedw/nicholaswedw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-join the discordhttps://discord.gg/8z7bPWcc
+join the discord https://discord.gg/8z7bPWcc
